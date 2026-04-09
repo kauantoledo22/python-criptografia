@@ -41,7 +41,7 @@ def descriptografar(texto):
     return resultado
 
 # Exemplo de uso
-mensagem = "peixepirocapau"
+mensagem = "kauan"
 mensagem_criptografada = criptografar(mensagem)
 mensagem_descriptografada = descriptografar(mensagem_criptografada)
 
